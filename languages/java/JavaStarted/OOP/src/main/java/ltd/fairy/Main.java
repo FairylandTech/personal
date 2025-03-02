@@ -44,12 +44,13 @@ public class Main {
         ragdoll.drink();
         ragdoll.catchMouse();
 
-        System.out.println(ClassLayout.parseInstance(ragdoll).toPrintable());
+//        System.out.println(ClassLayout.parseInstance(ragdoll).toPrintable());
     }
 
     public static void main(String[] args) {
 //        testPhone();
 //        testStudent();
         testRagdoll();
+        System.out.println(System.currentTimeMillis());
     }
 }
