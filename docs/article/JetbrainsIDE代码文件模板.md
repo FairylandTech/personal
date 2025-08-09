@@ -71,7 +71,6 @@
 // @contact: https://fairy.host
 // @organization: https://github.com/FairylandFuture
 // @datetime: ${YEAR}-${MONTH}-${DAY} ${HOUR}:${MINUTE}:${SECOND} UTC+08:00
-
 ```
 
 ## SCSS File
